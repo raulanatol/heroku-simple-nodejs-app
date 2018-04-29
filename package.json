@@ -1,0 +1,16 @@
+{
+  "name": "heroku-simple-nodejs-app",
+  "version": "1.0.0",
+  "description": "Simple express app to test Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "raulanatol"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
